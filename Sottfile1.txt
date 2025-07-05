@@ -5,3 +5,5 @@ Welcome to new project
 b7d7b0c1ae715dd483c12148d567cd2a450e788e
 
 Last line
+
+New set of line added
